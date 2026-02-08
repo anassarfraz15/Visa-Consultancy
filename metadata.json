@@ -1,0 +1,8 @@
+{
+  "name": "Anas Visa Experts",
+  "description": "Premium visa consultancy platform for global mobility solutions.",
+  "requestFramePermissions": [
+    "camera",
+    "microphone"
+  ]
+}
